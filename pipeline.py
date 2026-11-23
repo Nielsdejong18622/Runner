@@ -1,5 +1,5 @@
 from pathlib import Path
-from grunner import *
+from GUIrunner import *
 
 
 # Example of a pipeline. 
